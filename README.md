@@ -59,8 +59,6 @@ Além desses notebooks, ambos os datasets mencionados também se encontram posta
 | [Lorena Ribeiro Nascimento](https://github.com/usuario2) | Formação do dataset, treinamento da rede e comentários nos notebooks |
 | [Daniel Roberto Cassar](https://github.com/drcassar) | Orientador |
 
----
-
 ### Referências 📚
 [1] SCIENCE, ODSC-Open Data. Image Augmentation for Convolutional Neural Networks. Disponível em: <https://odsc.medium.com/image-augmentation-for-convolutional-neural-networks-18319e1291c>. Acesso em: 14 abr. 2025.
 
