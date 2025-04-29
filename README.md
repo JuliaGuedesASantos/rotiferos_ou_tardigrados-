@@ -56,7 +56,7 @@ Além desses notebooks, ambos os datasets mencionados também se encontram posta
 | GitHub | Contribuições |
 |:-----|:--------------|
 | [Júlia Guedes A. dos Santos](https://github.com/JuliaGuedesASantos) | Formação do dataset, treinamento da rede e criação do repositório |
-| [Lorena Ribeiro Nascimento](https://github.com/usuario2) | Formação do dataset, treinamento da rede e comentários nos notebooks |
+| [Lorena Ribeiro Nascimento](https://github.com/lorena881) | Formação do dataset, treinamento da rede e comentários nos notebooks |
 | [Daniel Roberto Cassar](https://github.com/drcassar) | Orientador |
 
 ### Referências 📚
