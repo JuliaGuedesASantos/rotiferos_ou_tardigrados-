@@ -8,7 +8,6 @@
 
 **Orientador:** Dr. Daniel Roberto Cassar
 
-![Status](https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge)
 *** 
 ### Introdução 🔬🖼️
 <p align= "justify">
